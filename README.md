@@ -69,7 +69,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/rachaouldbabaali/Hello-rails-react.git
+  git clone https://github.com/rachaouldbabaali/rails-react-wepack.git
 ```
 
 ### Install
